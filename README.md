@@ -1,2 +1,2 @@
 # pautas
-Sugestões de pauta para o podcast
+Para sugerir uma pauta para ser abordada no podcast, simplesmente abra uma issue no repositório.
